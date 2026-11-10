@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 # OS-støy
 .DS_Store
 Thumbs.db
 desktop.ini
+=======
+.env
+*.env
+*.key
+*.pem
+secrets/
+node_modules/
+__pycache__/
+>>>>>>> 16fe20d5b04c7ffc719182493023e2948b92ed81
